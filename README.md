@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Charitha Sri Goriparthi!
+# 👋 Hello, I'm Goriparthi Charitha Sri!
 🚀 **AI/ML Enthusiast | Python | DSA | Deep Learning | MLOps**  
 
 I am passionate about **Artificial Intelligence, Machine Learning, and Data Structures & Algorithms (DSA)**.  
