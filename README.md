@@ -25,9 +25,9 @@ I love solving **real-world problems with AI** and building **efficient algorith
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)](https://github.com/yourusername)  
 
 ## 📫 Connect with Me  
-📌 **LinkedIn:** [linkedin.com/in/yourname](www.linkedin.com/in/charitha-sri20)  
-📌 **GitHub:** [github.com/yourusername](https://github.com/Charitha_Sri)  
-📌 **Email:** [your.email@example.com](charithagoriparthi208@gmail.com)  
+📌 **LinkedIn:** (www.linkedin.com/in/charitha-sri20)  
+📌 **GitHub:** (https://github.com/Charitha_Sri)  
+📌 **Email:** (charithagoriparthi208@gmail.com)  
 
 ---
 💡 *Looking for AI/ML and Software Engineering opportunities? Let's connect and build something amazing together!* 🚀
