@@ -1,33 +1,19 @@
-# 👋 Hello, I'm Goriparthi Charitha Sri!
-🚀 **AI/ML Enthusiast | Python | DSA | Deep Learning | MLOps**  
+🚀 Hi, I'm Charitha Sri! 👋
+🔭 I’m currently enhancing my expertise in Artificial Intelligence, Machine Learning, Data Structures & Algorithms (DSA), and Web Development.
 
-I am passionate about **Artificial Intelligence, Machine Learning, and Data Structures & Algorithms (DSA)**.  
-I love solving **real-world problems with AI** and building **efficient algorithms** to optimize performance.
+🌱 I’m deeply passionate about solving complex problems using AI & ML and building efficient DSA solutions for real-world applications.
 
-## 🔥 Skills & Technologies  
-- **Programming:** Python 
-- **Machine Learning & Deep Learning:** Scikit-learn, TensorFlow, PyTorch, OpenCV, Hugging Face  
-- **MLOps & Deployment:** Docker, Kubernetes, CI/CD, FastAPI, Streamlit, AWS/GCP  
-- **Data Science & Analytics:** Pandas, NumPy, Matplotlib, Seaborn,  
-- **Data Structures & Algorithms (DSA):** LeetCode, Dynamic Programming, Graphs, Trees  
+👯 I’m looking to collaborate on AI-powered projects, open-source contributions, and innovative tech solutions.
 
-## 🏆 Featured AI/ML & DSA Projects  
-🔹 **[AI-Powered Resume Screening](https://github.com/yourusername/resume-screening)** – AI system that automatically filters job applicants based on skills and experience.  
-🔹 **[Intelligent Traffic Flow Prediction](https://github.com/yourusername/traffic-flow)** – Predicting real-time traffic congestion using Deep Learning models.  
-🔹 **[Waste Classification using CNN](https://github.com/yourusername/waste-classification)** – Identifying and categorizing plastic waste using CNNs.  
-🔹 **[MLOps Pipeline with Docker & CI/CD](https://github.com/yourusername/mlops-project)** – Automating ML model deployment with Docker, CI/CD, and AWS.  
-🔹 **[100+ DSA Problems on LeetCode](https://github.com/yourusername/leetcode-dsa)** – Solutions to top **Data Structures & Algorithms** problems for coding interviews.  
+🤔 I’m eager to learn and stay updated on the latest advancements in AI, ML, and modern web frameworks.
 
-## 📊 GitHub Stats  
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+💬 Ask me about Python, Deep Learning, Computer Vision, NLP, MLOps, and competitive programming.
 
-## 🏆 GitHub Contributions  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)](https://github.com/yourusername)  
+📫 How to reach me?
+➡ Connect with me on LinkedIn
+➡ Drop me a message on GitHub
 
-## 📫 Connect with Me  
-📌 **LinkedIn:** (www.linkedin.com/in/charitha-sri20)  
-📌 **GitHub:** (https://github.com/Charitha_Sri)  
-📌 **Email:** (charithagoriparthi208@gmail.com)  
+😄 Pronouns: She/Her
 
----
-💡 *Looking for AI/ML and Software Engineering opportunities? Let's connect and build something amazing together!* 🚀
+⚡ Fun fact: When I’m not coding, you’ll find me exploring nature trails or capturing moments through photography!
+
