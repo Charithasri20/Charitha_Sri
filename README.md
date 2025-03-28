@@ -12,9 +12,9 @@
 
 📫 How to reach me?
 
-➡  Connect with me on Linkdein (www.linkedin.com/in/charitha-sri20) (
+➡  Connect with me on Linkdein (www.linkedin.com/in/charitha-sri20) 
 
-➡ Drop me a message on GitHub
+➡ Drop me a message on GitHub (Charitha_Sri)
 
 😄 Pronouns: She/Her
 
