@@ -12,7 +12,7 @@
 
 📫 How to reach me?
 
-➡ Connect with me on LinkedIn
+➡  Connect with me on LinkedIn
 
 ➡ Drop me a message on GitHub
 
