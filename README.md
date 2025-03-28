@@ -11,7 +11,9 @@
 💬 Ask me about Python, Deep Learning, Computer Vision, NLP, MLOps, and competitive programming.
 
 📫 How to reach me?
+
 ➡ Connect with me on LinkedIn
+
 ➡ Drop me a message on GitHub
 
 😄 Pronouns: She/Her
