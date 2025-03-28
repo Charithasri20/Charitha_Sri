@@ -1,4 +1,5 @@
 🚀 Hi, I'm Charitha Sri! 👋
+
 🔭 I’m currently enhancing my expertise in Artificial Intelligence, Machine Learning, Data Structures & Algorithms (DSA), and Web Development.
 
 🌱 I’m deeply passionate about solving complex problems using AI & ML and building efficient DSA solutions for real-world applications.
