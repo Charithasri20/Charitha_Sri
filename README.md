@@ -1,4 +1,4 @@
-🚀 Hi, I'm Charitha Sri! 👋
+🚀 Hi, I'm Charitha Sri!👋
 
 🔭 I’m currently enhancing my expertise in Artificial Intelligence, Machine Learning, Data Structures & Algorithms (DSA), and Web Development.
 
@@ -16,5 +16,6 @@
 
 😄 Pronouns: She/Her
 
-⚡ Fun fact: When I’m not coding, you’ll find me exploring nature trails or capturing moments through photography!
+⚡ Fun fact: When I'm not coding, I love solving puzzles, experimenting with new tech gadgets, and diving into sci-fi books!
+
 
