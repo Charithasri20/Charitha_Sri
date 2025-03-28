@@ -14,7 +14,7 @@
 
 ➡  Connect with me on Linkdein (www.linkedin.com/in/charitha-sri20) 
 
-➡ Drop me a message on GitHub (Charitha_Sri)
+➡ Drop me a message on GitHub (https://github.com/Charitha_Sri)
 
 😄 Pronouns: She/Her
 
